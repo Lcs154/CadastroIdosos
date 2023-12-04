@@ -3,10 +3,15 @@ Um projeto feito para a faculdade, que visa o cadastramento e a consulta de clie
 
 Todos os arquivos usados no projeto estao compactados em rar.
 
-1. para dar sequencia ao passo a passo, e necessario baixar o ProjetoA3-Claudio.rar (ao clicar no ProjetoA3-Claudio.rar, va em view raw)
-2. e necessario descompactar
-3. Criar um banco de dados em xampp
-4. abrir o eclipse e usar o diretorio do Projeto descompactado no caso o ProjetoA3
-5. executar o arquivo pelo eclipse
+Passo a passo para execução da aplicação:
 
-Caso nao esteja funcionando, enviarei um vídeo mostrando a aplicação funcionando.
+1. baixe o ProjetoA3-Claudio.rar (ao clicar no ProjetoA3-Claudio.rar, va em view raw);
+2. extraia os arquivos
+3. Crie um banco de dados em xampp, caso contrario não será possivel visualizar o sistema funcionando em 100%;
+4. abra o eclipse e use o diretorio do Projeto descompactado (no caso o ProjetoA3 (a pasta onde esta localizada a aplicação))
+5. execute a aplicação no eclipse
+
+
+OBS: O driver que conecta ao banco de dados já está configurado.
+
+Caso a aplicação não funcione, enviarei um vídeo mostrando a aplicação funcionando.
