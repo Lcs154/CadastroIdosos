@@ -1,5 +1,5 @@
 # CadastroIdosos
-Um projeto feito para a faculdade, que possa cadastrar e consultar clientes com 65 anos ou mais
+Um projeto feito para a faculdade, que visa o cadastramento e a consulta de clientes com 65 anos ou mais
 
 Todos os arquivos usados no projeto estao compactados em rar.
 
