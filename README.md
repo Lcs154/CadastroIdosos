@@ -8,4 +8,4 @@ Todos os arquivos usados no projeto estao compactados em rar.
 2. abrir o eclipse e usar o diretorio do Projeto descompactado no caso o ProjetoA3
 3. executar o arquivo pelo eclipse
 
-Caso nao esteja funcionando, veja o video
+Caso nao esteja funcionando, enviarei um vídeo mostrando a aplicação funcionando.
