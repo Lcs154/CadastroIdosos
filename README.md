@@ -15,3 +15,6 @@ Passo a passo para execução da aplicação:
 OBS: O driver que conecta ao banco de dados já está configurado.
 
 Caso a aplicação não funcione, enviarei um vídeo mostrando a aplicação funcionando.
+
+
+# foi meu primeiro projeto usando o github (perdão)
